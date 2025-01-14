@@ -30,23 +30,8 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Quality of Life Features
+  - none
 
 ## Todos
 
@@ -58,23 +43,14 @@
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the plugin on the Github Release site.
 
 ## Credits
 
-This software uses the following open source packages:
+This software uses the following the README from the GitHub repository:
+ - [electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify)
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+
 
 ## Related
 
