@@ -1,0 +1,6 @@
+name: SonoNetwork
+version: '1.0-SNAPSHOT'
+main: org.sono.sonoNetwork.SonoNetwork
+api-version: '1.21'
+authors: [ getSono ]
+website: sononetwork.de
