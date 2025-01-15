@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://sononetwork.de"><img src="https://raw.githubusercontent.com/SonoNet/Main-Plugin/new-readme/c57fb81ffe57644caa1502f145a5d3bc-modified.png" alt="SonoNetwork" width="256"></a>
+  <a href="https://sononetwork.de"><img src="https://raw.githubusercontent.com/SonoNet/Main-Plugin/main/c57fb81ffe57644caa1502f145a5d3bc-modified.png" alt="SonoNetwork" width="256"></a>
   <br>
  SonoNetwork
   <br>
